@@ -1,2 +1,2 @@
-# vs-learning
-My first repository on GitHub
+# Java Beginner Projects
+Just Code 
